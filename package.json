@@ -1,0 +1,14 @@
+{
+  "name": "habita_auto_login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Baris Senkal <barissenkal@gmail.com> (http://etekmekketcap.com)",
+  "license": "ISC",
+  "dependencies": {
+    "menubar": "^5.2.3"
+  }
+}
